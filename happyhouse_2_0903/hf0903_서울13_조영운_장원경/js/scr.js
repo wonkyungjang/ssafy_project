@@ -48,7 +48,7 @@ $(function () {
   $("#totalApt").click(function () {
     var gu = $("#_gu option:selected").val();
     var ServiceKey =
-      "ogyWf7j1awWf3Y3DjopiHJDZqYzrGyYlFU+OkAEIGlqRPZ6yCJwg1FJlInF39DIi+lzDIh/MMdcpMAlq0tmLgA==";
+      "ogyWf7j1awWf3Y3Djo6yCJwg";
 
     if (gu == "강남구") LAWD_CD = 11680;
     else if (gu == "종로구") LAWD_CD = 11110;
